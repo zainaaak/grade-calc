@@ -1,0 +1,27 @@
+body {
+  width: 700px;
+  height: 700px;
+  background-color: darkolivegreen;
+  margin: auto 650px;
+  padding-left: 30px;
+  padding-top: 5px;
+  border-style: solid;
+  border-color: black;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+html {
+  background-color: blanchedalmond;
+}
+
+input {
+  padding: 9px;
+  border-style: hidden;
+}
+
+button {
+  height: 30px;
+  font-size: 20px;
+  font-family: monospace;
+}
